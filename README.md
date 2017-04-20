@@ -1,4 +1,4 @@
-# Human like mouse move
+# Human like mouse move (Python 3 script)
 Move mouse cursor human like (something similar).
 
 ## Requirments:
