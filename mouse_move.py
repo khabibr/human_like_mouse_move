@@ -37,7 +37,7 @@ USING_STR = (
     '\t--autopilot : Use autopilot mouse move method (default)\n'
     '\t  (https://developer.ubuntu.com/api/autopilot/python/1.5.0/autopilot.input)\n'
     '\t--xdotool : Use xdotool mouse move method\n'
-    'Example:\n'
+    'Examples:\n'
     '\t{0} 100:100 500:100 300:250 100:100 max_speed:50\n'
     '\t{0} count:10 count:10 max_pause:1 top_left:0:0 bottom_right:639:199\n'
 )

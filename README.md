@@ -11,11 +11,12 @@ apt-get install python3-autopilot
 ```
 
 ## Usage
+```
 ./mouse_move.py [COORDINATES] [PARAMS] [KEYS]
+```
 #### COORDINATES:
 ##### x1:y1 x2:y2 ... xM:yM
-Move cursor sequentially along the COORDINATES
-endless random movements if no COORDINATES
+Move cursor sequentially along the COORDINATES. Endless random movements if no COORDINATES.
 #### PARAMS:
 ##### param1:val1 param2:val2 ... paramN:valN
 Set of params:
